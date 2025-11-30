@@ -1,2 +1,2 @@
 # HTML-2
-WD
+Full stack web development course
